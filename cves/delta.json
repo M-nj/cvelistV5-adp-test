@@ -1,607 +1,607 @@
 {
-  "fetchTime": "2024-06-07T17:49:15.867Z",
+  "fetchTime": "2024-06-07T17:50:55.325Z",
   "numberOfChanges": 100,
   "new": [],
   "updated": [
     {
-      "cveId": "CVE-2022-34338",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34338",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34338.json",
-      "dateUpdated": "2022-07-31T17:31:09"
+      "cveId": "CVE-2022-35272",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35272",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35272.json",
+      "dateUpdated": "2022-08-04T17:49:42"
     },
     {
-      "cveId": "CVE-2022-34348",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34348",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34348.json",
-      "dateUpdated": "2022-09-23T17:35:15"
+      "cveId": "CVE-2022-35280",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35280",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35280.json",
+      "dateUpdated": "2022-08-10T16:50:30"
     },
     {
-      "cveId": "CVE-2022-34356",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34356",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34356.json",
-      "dateUpdated": "2022-09-13T20:45:26"
+      "cveId": "CVE-2022-35282",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35282",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35282.json",
+      "dateUpdated": "2022-09-28T15:55:14"
     },
     {
-      "cveId": "CVE-2022-34358",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34358",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34358.json",
-      "dateUpdated": "2022-07-13T16:40:10"
+      "cveId": "CVE-2022-35283",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35283",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35283.json",
+      "dateUpdated": "2022-07-14T16:25:27"
     },
     {
-      "cveId": "CVE-2022-34365",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34365",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34365.json",
-      "dateUpdated": "2022-08-10T16:31:49"
+      "cveId": "CVE-2022-35284",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35284",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35284.json",
+      "dateUpdated": "2022-07-25T17:20:20"
     },
     {
-      "cveId": "CVE-2022-34367",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34367",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34367.json",
-      "dateUpdated": "2022-07-20T20:55:36"
+      "cveId": "CVE-2022-35285",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35285",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35285.json",
+      "dateUpdated": "2022-07-25T17:20:30"
     },
     {
-      "cveId": "CVE-2022-34368",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34368",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34368.json",
-      "dateUpdated": "2022-08-30T20:25:14"
+      "cveId": "CVE-2022-35286",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35286",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35286.json",
+      "dateUpdated": "2022-07-26T14:25:28"
     },
     {
-      "cveId": "CVE-2022-34369",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34369",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34369.json",
-      "dateUpdated": "2022-09-02T17:30:17"
+      "cveId": "CVE-2022-35287",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35287",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35287.json",
+      "dateUpdated": "2022-07-25T17:20:40"
     },
     {
-      "cveId": "CVE-2022-34371",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34371",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34371.json",
-      "dateUpdated": "2022-09-02T17:30:18"
+      "cveId": "CVE-2022-35288",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35288",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35288.json",
+      "dateUpdated": "2022-07-25T17:20:51"
     },
     {
-      "cveId": "CVE-2022-34372",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34372",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34372.json",
-      "dateUpdated": "2022-09-01T18:45:17"
+      "cveId": "CVE-2022-35629",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35629",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35629.json",
+      "dateUpdated": "2022-07-29T17:00:21"
     },
     {
-      "cveId": "CVE-2022-34373",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34373",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34373.json",
-      "dateUpdated": "2022-09-01T18:45:17"
+      "cveId": "CVE-2022-35630",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35630",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35630.json",
+      "dateUpdated": "2022-07-29T17:00:33"
     },
     {
-      "cveId": "CVE-2022-34374",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34374",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34374.json",
-      "dateUpdated": "2022-08-30T20:25:15"
+      "cveId": "CVE-2022-35631",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35631",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35631.json",
+      "dateUpdated": "2022-07-29T17:00:46"
     },
     {
-      "cveId": "CVE-2022-34375",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34375",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34375.json",
-      "dateUpdated": "2022-08-30T20:25:16"
+      "cveId": "CVE-2022-35632",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35632",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35632.json",
+      "dateUpdated": "2022-07-29T17:01:01"
     },
     {
-      "cveId": "CVE-2022-34378",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34378",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34378.json",
-      "dateUpdated": "2022-09-02T17:30:19"
+      "cveId": "CVE-2022-35637",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35637",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35637.json",
+      "dateUpdated": "2023-09-21T20:16:59.259Z"
     },
     {
-      "cveId": "CVE-2022-34379",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34379",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34379.json",
-      "dateUpdated": "2022-09-01T18:45:18"
+      "cveId": "CVE-2022-35639",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35639",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35639.json",
+      "dateUpdated": "2022-07-26T14:25:39"
     },
     {
-      "cveId": "CVE-2022-34380",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34380",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34380.json",
-      "dateUpdated": "2022-09-01T18:45:19"
+      "cveId": "CVE-2022-35643",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35643",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35643.json",
+      "dateUpdated": "2022-07-29T14:05:11"
     },
     {
-      "cveId": "CVE-2022-34382",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34382",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34382.json",
-      "dateUpdated": "2022-09-02T17:30:20"
+      "cveId": "CVE-2022-35664",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35664",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35664.json",
+      "dateUpdated": "2022-09-16T17:45:46"
     },
     {
-      "cveId": "CVE-2022-34383",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34383",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34383.json",
-      "dateUpdated": "2022-08-31T20:05:16"
+      "cveId": "CVE-2022-35665",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35665",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35665.json",
+      "dateUpdated": "2022-08-11T14:43:59"
     },
     {
-      "cveId": "CVE-2022-34390",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34390",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34390.json",
-      "dateUpdated": "2022-10-12T00:00:00"
+      "cveId": "CVE-2022-35666",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35666",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35666.json",
+      "dateUpdated": "2022-08-11T14:45:10"
     },
     {
-      "cveId": "CVE-2022-34391",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34391",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34391.json",
-      "dateUpdated": "2022-10-12T00:00:00"
+      "cveId": "CVE-2022-35667",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35667",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35667.json",
+      "dateUpdated": "2022-08-11T14:44:15"
     },
     {
-      "cveId": "CVE-2022-34394",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34394",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34394.json",
-      "dateUpdated": "2022-09-28T20:30:17"
+      "cveId": "CVE-2022-35668",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35668",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35668.json",
+      "dateUpdated": "2022-08-11T14:44:40"
     },
     {
-      "cveId": "CVE-2022-34402",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34402",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34402.json",
-      "dateUpdated": "2022-10-10T00:00:00"
+      "cveId": "CVE-2022-35669",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35669",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35669.json",
+      "dateUpdated": "2022-07-27T16:19:06"
     },
     {
-      "cveId": "CVE-2022-34424",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34424",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34424.json",
-      "dateUpdated": "2022-09-28T20:30:18"
+      "cveId": "CVE-2022-35670",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35670",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35670.json",
+      "dateUpdated": "2022-08-11T14:43:46"
     },
     {
-      "cveId": "CVE-2022-34425",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34425",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34425.json",
-      "dateUpdated": "2022-10-10T00:00:00"
+      "cveId": "CVE-2022-35671",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35671",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35671.json",
+      "dateUpdated": "2022-08-11T14:44:54"
     },
     {
-      "cveId": "CVE-2022-34426",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34426",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34426.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35672",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35672",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35672.json",
+      "dateUpdated": "2022-07-27T16:20:50"
     },
     {
-      "cveId": "CVE-2022-34427",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34427",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34427.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35673",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35673",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35673.json",
+      "dateUpdated": "2022-08-11T14:42:31"
     },
     {
-      "cveId": "CVE-2022-34428",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34428",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34428.json",
-      "dateUpdated": "2022-09-30T19:25:09"
+      "cveId": "CVE-2022-35674",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35674",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35674.json",
+      "dateUpdated": "2022-08-11T14:42:16"
     },
     {
-      "cveId": "CVE-2022-34429",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34429",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34429.json",
-      "dateUpdated": "2022-09-30T19:25:10"
+      "cveId": "CVE-2022-35675",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35675",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35675.json",
+      "dateUpdated": "2022-08-11T14:41:52"
     },
     {
-      "cveId": "CVE-2022-34430",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34430",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34430.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35676",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35676",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35676.json",
+      "dateUpdated": "2022-08-11T14:46:53"
     },
     {
-      "cveId": "CVE-2022-34431",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34431",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34431.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35677",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35677",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35677.json",
+      "dateUpdated": "2022-08-11T14:42:01"
     },
     {
-      "cveId": "CVE-2022-34432",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34432",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34432.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35678",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35678",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35678.json",
+      "dateUpdated": "2022-08-11T14:44:26"
     },
     {
-      "cveId": "CVE-2022-34434",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34434",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34434.json",
-      "dateUpdated": "2022-10-11T00:00:00"
+      "cveId": "CVE-2022-35689",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35689",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35689.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34437",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34437",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34437.json",
-      "dateUpdated": "2022-10-21T00:00:00"
+      "cveId": "CVE-2022-35690",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35690",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35690.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34438",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34438",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34438.json",
-      "dateUpdated": "2022-10-21T00:00:00"
+      "cveId": "CVE-2022-35691",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35691",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35691.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34439",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34439",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34439.json",
-      "dateUpdated": "2022-10-21T00:00:00"
+      "cveId": "CVE-2022-35692",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35692",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35692.json",
+      "dateUpdated": "2022-08-26T15:25:42"
     },
     {
-      "cveId": "CVE-2022-34651",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34651",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34651.json",
-      "dateUpdated": "2022-08-04T17:47:17"
+      "cveId": "CVE-2022-35697",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35697",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35697.json",
+      "dateUpdated": "2022-08-09T20:12:33"
     },
     {
-      "cveId": "CVE-2022-34652",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34652",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34652.json",
-      "dateUpdated": "2022-08-22T18:30:26"
+      "cveId": "CVE-2022-35698",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35698",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35698.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34655",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34655",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34655.json",
-      "dateUpdated": "2022-08-04T17:47:31"
+      "cveId": "CVE-2022-35699",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35699",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35699.json",
+      "dateUpdated": "2022-09-19T15:47:08"
     },
     {
-      "cveId": "CVE-2022-34753",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34753",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34753.json",
-      "dateUpdated": "2022-07-21T21:06:29"
+      "cveId": "CVE-2022-35700",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35700",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35700.json",
+      "dateUpdated": "2022-09-19T15:47:09"
     },
     {
-      "cveId": "CVE-2022-34754",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34754",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34754.json",
-      "dateUpdated": "2022-07-13T21:10:27"
+      "cveId": "CVE-2022-35701",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35701",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35701.json",
+      "dateUpdated": "2022-09-19T15:47:08"
     },
     {
-      "cveId": "CVE-2022-34756",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34756",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34756.json",
-      "dateUpdated": "2022-07-13T21:10:32"
+      "cveId": "CVE-2022-35702",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35702",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35702.json",
+      "dateUpdated": "2022-09-19T15:47:09"
     },
     {
-      "cveId": "CVE-2022-34757",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34757",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34757.json",
-      "dateUpdated": "2022-07-13T21:10:36"
+      "cveId": "CVE-2022-35703",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35703",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35703.json",
+      "dateUpdated": "2022-09-19T15:47:09"
     },
     {
-      "cveId": "CVE-2022-34758",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34758",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34758.json",
-      "dateUpdated": "2022-07-13T21:10:41"
+      "cveId": "CVE-2022-35704",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35704",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35704.json",
+      "dateUpdated": "2022-09-19T15:47:09"
     },
     {
-      "cveId": "CVE-2022-34759",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34759",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34759.json",
-      "dateUpdated": "2022-07-13T21:10:46"
+      "cveId": "CVE-2022-35705",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35705",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35705.json",
+      "dateUpdated": "2022-09-19T15:47:08"
     },
     {
-      "cveId": "CVE-2022-34760",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34760",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34760.json",
-      "dateUpdated": "2022-07-13T21:10:49"
+      "cveId": "CVE-2022-35706",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35706",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35706.json",
+      "dateUpdated": "2022-09-19T15:47:10"
     },
     {
-      "cveId": "CVE-2022-34761",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34761",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34761.json",
-      "dateUpdated": "2022-07-13T21:10:52"
+      "cveId": "CVE-2022-35707",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35707",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35707.json",
+      "dateUpdated": "2022-09-19T15:47:09"
     },
     {
-      "cveId": "CVE-2022-34762",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34762",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34762.json",
-      "dateUpdated": "2022-07-13T21:10:56"
+      "cveId": "CVE-2022-35708",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35708",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35708.json",
+      "dateUpdated": "2022-09-19T15:47:10"
     },
     {
-      "cveId": "CVE-2022-34763",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34763",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34763.json",
-      "dateUpdated": "2022-07-13T21:11:02"
+      "cveId": "CVE-2022-35709",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35709",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35709.json",
+      "dateUpdated": "2022-09-19T15:47:10"
     },
     {
-      "cveId": "CVE-2022-34764",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34764",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34764.json",
-      "dateUpdated": "2022-07-13T21:11:05"
+      "cveId": "CVE-2022-35710",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35710",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35710.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34765",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34765",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34765.json",
-      "dateUpdated": "2022-07-13T21:11:13"
+      "cveId": "CVE-2022-35711",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35711",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35711.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34768",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34768",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34768.json",
-      "dateUpdated": "2022-09-01T16:49:38"
+      "cveId": "CVE-2022-35712",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35712",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35712.json",
+      "dateUpdated": "2022-10-14T00:00:00"
     },
     {
-      "cveId": "CVE-2022-34769",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34769",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34769.json",
-      "dateUpdated": "2024-04-17T09:47:23.351Z"
+      "cveId": "CVE-2022-35713",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35713",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35713.json",
+      "dateUpdated": "2022-09-16T17:16:40"
     },
     {
-      "cveId": "CVE-2022-34770",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34770",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34770.json",
-      "dateUpdated": "2022-08-22T14:41:16"
+      "cveId": "CVE-2022-35714",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35714",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35714.json",
+      "dateUpdated": "2022-08-26T17:25:13"
     },
     {
-      "cveId": "CVE-2022-34771",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34771",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34771.json",
-      "dateUpdated": "2022-08-22T14:40:51"
+      "cveId": "CVE-2022-35715",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35715",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35715.json",
+      "dateUpdated": "2022-08-10T16:50:35"
     },
     {
-      "cveId": "CVE-2022-34772",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34772",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34772.json",
-      "dateUpdated": "2022-08-22T14:42:58"
+      "cveId": "CVE-2022-35716",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35716",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35716.json",
+      "dateUpdated": "2022-07-31T16:08:06"
     },
     {
-      "cveId": "CVE-2022-34773",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34773",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34773.json",
-      "dateUpdated": "2022-08-22T14:41:38"
+      "cveId": "CVE-2022-35721",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35721",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35721.json",
+      "dateUpdated": "2022-09-23T17:35:16"
     },
     {
-      "cveId": "CVE-2022-34774",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34774",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34774.json",
-      "dateUpdated": "2022-08-22T14:41:59"
+      "cveId": "CVE-2022-35722",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35722",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35722.json",
+      "dateUpdated": "2022-09-28T15:55:15"
     },
     {
-      "cveId": "CVE-2022-34775",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34775",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34775.json",
-      "dateUpdated": "2022-08-22T14:42:21"
+      "cveId": "CVE-2022-35728",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35728",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35728.json",
+      "dateUpdated": "2022-08-04T17:49:50"
     },
     {
-      "cveId": "CVE-2022-34776",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34776",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34776.json",
-      "dateUpdated": "2022-08-22T14:42:38"
+      "cveId": "CVE-2022-35735",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35735",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35735.json",
+      "dateUpdated": "2022-08-04T17:50:06"
     },
     {
-      "cveId": "CVE-2022-34836",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34836",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34836.json",
-      "dateUpdated": "2022-08-24T15:15:00"
-    },
-    {
-      "cveId": "CVE-2022-34837",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34837",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34837.json",
-      "dateUpdated": "2022-08-24T15:14:33"
-    },
-    {
-      "cveId": "CVE-2022-34838",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34838",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34838.json",
-      "dateUpdated": "2022-08-24T15:15:26"
-    },
-    {
-      "cveId": "CVE-2022-34844",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34844",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34844.json",
-      "dateUpdated": "2022-08-04T17:47:44"
-    },
-    {
-      "cveId": "CVE-2022-34845",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34845",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34845.json",
-      "dateUpdated": "2022-10-25T00:00:00"
-    },
-    {
-      "cveId": "CVE-2022-34850",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34850",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34850.json",
-      "dateUpdated": "2022-10-25T00:00:00"
-    },
-    {
-      "cveId": "CVE-2022-34851",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34851",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34851.json",
-      "dateUpdated": "2022-08-04T17:47:58"
-    },
-    {
-      "cveId": "CVE-2022-34862",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34862",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34862.json",
-      "dateUpdated": "2022-08-04T17:48:11"
-    },
-    {
-      "cveId": "CVE-2022-34865",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34865",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34865.json",
-      "dateUpdated": "2022-08-04T17:48:25"
-    },
-    {
-      "cveId": "CVE-2022-34876",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34876",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34876.json",
-      "dateUpdated": "2022-07-05T15:40:15"
-    },
-    {
-      "cveId": "CVE-2022-34877",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34877",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34877.json",
-      "dateUpdated": "2022-07-05T15:40:19"
-    },
-    {
-      "cveId": "CVE-2022-34878",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34878",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34878.json",
-      "dateUpdated": "2022-07-05T15:40:27"
-    },
-    {
-      "cveId": "CVE-2022-34879",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-34879",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/34xxx/CVE-2022-34879.json",
-      "dateUpdated": "2022-07-05T15:40:31"
-    },
-    {
-      "cveId": "CVE-2022-35216",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35216",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35216.json",
-      "dateUpdated": "2022-08-15T12:42:52"
-    },
-    {
-      "cveId": "CVE-2022-35217",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35217",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35217.json",
-      "dateUpdated": "2022-08-02T02:55:28"
-    },
-    {
-      "cveId": "CVE-2022-35218",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35218",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35218.json",
-      "dateUpdated": "2022-08-02T15:20:04"
-    },
-    {
-      "cveId": "CVE-2022-35219",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35219",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35219.json",
-      "dateUpdated": "2022-08-02T15:20:19"
-    },
-    {
-      "cveId": "CVE-2022-35220",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35220",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35220.json",
-      "dateUpdated": "2022-08-02T15:20:32"
-    },
-    {
-      "cveId": "CVE-2022-35221",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35221",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35221.json",
-      "dateUpdated": "2022-08-02T15:20:44"
-    },
-    {
-      "cveId": "CVE-2022-35222",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35222",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35222.json",
-      "dateUpdated": "2022-08-02T15:21:00"
-    },
-    {
-      "cveId": "CVE-2022-35223",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35223",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35223.json",
-      "dateUpdated": "2022-08-15T12:27:55"
-    },
-    {
-      "cveId": "CVE-2022-35229",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35229",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35229.json",
-      "dateUpdated": "2023-08-22T15:06:20.620530"
-    },
-    {
-      "cveId": "CVE-2022-35230",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35230",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35230.json",
-      "dateUpdated": "2023-04-12T00:00:00"
-    },
-    {
-      "cveId": "CVE-2022-35236",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35236",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35236.json",
-      "dateUpdated": "2022-08-04T17:48:41"
-    },
-    {
-      "cveId": "CVE-2022-35240",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35240",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35240.json",
-      "dateUpdated": "2022-08-04T17:48:54"
-    },
-    {
-      "cveId": "CVE-2022-35241",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35241",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35241.json",
-      "dateUpdated": "2022-08-04T17:49:06"
-    },
-    {
-      "cveId": "CVE-2022-35243",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35243",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35243.json",
-      "dateUpdated": "2022-08-04T17:49:19"
-    },
-    {
-      "cveId": "CVE-2022-35244",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35244",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35244.json",
+      "cveId": "CVE-2022-35874",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35874",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35874.json",
       "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35245",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35245",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35245.json",
-      "dateUpdated": "2022-08-04T17:49:32"
+      "cveId": "CVE-2022-35875",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35875",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35875.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35261",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35261",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35261.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35876",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35876",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35876.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35262",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35262",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35262.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35877",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35877",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35877.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35263",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35263",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35263.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35878",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35878",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35878.json",
+      "dateUpdated": "2022-10-25T00:00:00"
     },
     {
-      "cveId": "CVE-2022-35264",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35264",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35264.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35879",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35879",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35879.json",
+      "dateUpdated": "2022-10-25T00:00:00"
     },
     {
-      "cveId": "CVE-2022-35265",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35265",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35265.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35880",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35880",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35880.json",
+      "dateUpdated": "2022-10-25T00:00:00"
     },
     {
-      "cveId": "CVE-2022-35266",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35266",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35266.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35881",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35881",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35881.json",
+      "dateUpdated": "2022-10-25T00:00:00"
     },
     {
-      "cveId": "CVE-2022-35267",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35267",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35267.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35884",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35884",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35884.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35268",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35268",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35268.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35885",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35885",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35885.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35269",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35269",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35269.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35886",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35886",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35886.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35270",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35270",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35270.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-35887",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35887",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35887.json",
+      "dateUpdated": "2023-02-03T22:11:40.626064Z"
     },
     {
-      "cveId": "CVE-2022-35271",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-35271",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/35xxx/CVE-2022-35271.json",
-      "dateUpdated": "2022-12-22T00:00:00"
+      "cveId": "CVE-2022-36280",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36280",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36280.json",
+      "dateUpdated": "2023-05-03T00:00:00"
     },
     {
-      "cveId": "CVE-2022-3501",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-3501",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/3xxx/CVE-2022-3501.json",
-      "dateUpdated": "2024-05-31T18:41:33.326Z"
+      "cveId": "CVE-2022-36385",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36385",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36385.json",
+      "dateUpdated": "2022-09-13T14:54:35"
+    },
+    {
+      "cveId": "CVE-2022-36402",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36402",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36402.json",
+      "dateUpdated": "2022-09-16T16:08:01"
+    },
+    {
+      "cveId": "CVE-2022-36423",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36423",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36423.json",
+      "dateUpdated": "2022-09-09T14:39:56"
+    },
+    {
+      "cveId": "CVE-2022-36768",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36768",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36768.json",
+      "dateUpdated": "2022-09-13T20:45:28"
+    },
+    {
+      "cveId": "CVE-2022-36771",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36771",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36771.json",
+      "dateUpdated": "2022-09-28T15:55:15"
+    },
+    {
+      "cveId": "CVE-2022-36772",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36772",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36772.json",
+      "dateUpdated": "2022-10-07T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36773",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36773",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36773.json",
+      "dateUpdated": "2022-10-14T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36774",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36774",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36774.json",
+      "dateUpdated": "2022-10-06T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36778",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36778",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36778.json",
+      "dateUpdated": "2022-09-13T14:58:01"
+    },
+    {
+      "cveId": "CVE-2022-36779",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36779",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36779.json",
+      "dateUpdated": "2022-09-13T14:57:52"
+    },
+    {
+      "cveId": "CVE-2022-36780",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36780",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36780.json",
+      "dateUpdated": "2022-09-13T14:57:56"
+    },
+    {
+      "cveId": "CVE-2022-36781",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36781",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36781.json",
+      "dateUpdated": "2024-03-14T13:48:41.228Z"
+    },
+    {
+      "cveId": "CVE-2022-36782",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36782",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36782.json",
+      "dateUpdated": "2022-09-13T14:58:04"
+    },
+    {
+      "cveId": "CVE-2022-36783",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36783",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36783.json",
+      "dateUpdated": "2022-10-26T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36795",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36795",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36795.json",
+      "dateUpdated": "2022-10-19T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36799",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36799",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36799.json",
+      "dateUpdated": "2022-08-01T01:15:12"
+    },
+    {
+      "cveId": "CVE-2022-36800",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36800",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36800.json",
+      "dateUpdated": "2022-08-03T02:20:31"
+    },
+    {
+      "cveId": "CVE-2022-36801",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36801",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36801.json",
+      "dateUpdated": "2022-08-10T02:20:09"
+    },
+    {
+      "cveId": "CVE-2022-36802",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36802",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36802.json",
+      "dateUpdated": "2022-10-14T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36803",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36803",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36803.json",
+      "dateUpdated": "2022-10-14T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36804",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36804",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36804.json",
+      "dateUpdated": "2024-05-03T14:43:49.329Z"
+    },
+    {
+      "cveId": "CVE-2022-36924",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36924",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36924.json",
+      "dateUpdated": "2022-11-17T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36957",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36957",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36957.json",
+      "dateUpdated": "2022-10-20T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36958",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36958",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36958.json",
+      "dateUpdated": "2022-10-20T00:00:00"
+    },
+    {
+      "cveId": "CVE-2022-36960",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-36960",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/36xxx/CVE-2022-36960.json",
+      "dateUpdated": "2023-08-03T20:34:08.739Z"
+    },
+    {
+      "cveId": "CVE-2022-3569",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-3569",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/3xxx/CVE-2022-3569.json",
+      "dateUpdated": "2024-05-31T18:42:13.608Z"
+    },
+    {
+      "cveId": "CVE-2022-3575",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-3575",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/3xxx/CVE-2022-3575.json",
+      "dateUpdated": "2024-05-31T18:42:15.436Z"
+    },
+    {
+      "cveId": "CVE-2022-3576",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2022-3576",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2022/3xxx/CVE-2022-3576.json",
+      "dateUpdated": "2024-05-31T18:42:15.787Z"
     }
   ],
   "error": []
